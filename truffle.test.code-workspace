@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../code/truffle.test"
+		},
+		{
+			"name": "desktop-tutorial",
+			"path": ".vscode/desktop-tutorial"
+		}
+	],
+	"settings": {}
+}
